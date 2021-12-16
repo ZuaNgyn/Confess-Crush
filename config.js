@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Ứ ừ, nữa cơ đá đì. Không chịu phạt nhẹ thế đâu <3',
     mess: 'Ukiii, thế thì...',
     messDesc: 'Chiều nay nằm ráo nước chờ tôi qua nhà nhé :)) Giờ t đi ngủ típ đây, bye em.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiii lun <3',
     messLink: 'https://github.com/Gửi em/Công-chúa/' 
 }
