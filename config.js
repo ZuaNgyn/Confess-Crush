@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    titleWeb: "Chào công chúa của hôm nay nhen!",
+    introTitle: 'Hê lu em iu',
+    introDesc: `Sr em vì sáng nay đã biến mất,
+    nhưng mà,
+    tôi đã chuẩn bị cho em một  
+    bất ngờ siu to rùi đây! ^^,
+    btnIntro: 'Hihi',
+    title: 'Đố em iu biết hôm nay là ngày gì?',
+    desc: 'Đoán không ra thì phải bị phạt đó nha~',
+    btnYes: 'Em không biết >-<',
+    btnNo: 'Tất nhiên là em biết rùi :3',
+    question: 'Hầy, đành vậy. Phạt em không được nhịn ăn nữa nhaaa',
+    btnReply: 'Gửi <3',
+    reply: 'Ứ ừ, nữa cơ đá đì. Không chịu phạt nhẹ thế đâu <3',
+    mess: 'Ukiii, thế thì...',
+    messDesc: 'Chiều nay nằm ráo nước chờ tôi qua nhà nhé :)) Giờ t đi ngủ típ đây, bye em.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/Gửi em/Công-chúa/' 
 }
